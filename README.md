@@ -18,4 +18,4 @@ Etudiante en design, j'aime les interfaces sobres.
 
 ## Ma page
 
-[Voir ma page en ligne](https://www.la-canopee.com/?srsltid=AYCX9vJ5BbV4HnDApZfulqawwVeVj4gahh57wDGSof3ZWIUZ00R4Hhco/)
+[Voir ma page en ligne](https:AF-edna.github.io/vibe-coding-starter/)
