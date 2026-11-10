@@ -15,3 +15,7 @@ Etudiante en design, j'aime les interfaces sobres.
 -**GitHub** : le partager en ligne
 
 -*Marketing* : écrire du texte mis en forme
+
+## Ma page
+
+[Voir ma page en ligne](https:AF-edna.github.io/vibe-coding-starter/)
